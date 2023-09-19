@@ -1,0 +1,4 @@
+Outro setor em que falhas podem custar caro é o estoque. O controle precisa ser eficiente, automatizado, para que a chance de erros seja menor. Uma ferramenta ERP completa ajuda a identificar os produtos com maior ou menor saída e ajustar a estratégia de vendas de acordo.
+
+O controle de estoque precisa trabalhar de forma integrada com o módulo de vendas, para que as baixas sejam feitas de forma automática. 
+
